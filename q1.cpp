@@ -13,8 +13,8 @@ public:
 
 int main(){
 
-Box Box1, Box2; // Define the objects Box1 & Box2 of type box
-double volume; // store volume of a box
+Box Box1, Box2;  
+double volume;  
 
 // Box1 specification
 Box1.l = 15;
